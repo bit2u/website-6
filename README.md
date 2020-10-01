@@ -1,7 +1,7 @@
-# bitwarden.com Website
+# bitwarden.com website
 
-The bitwarden Website project is written using Jekyll, which is hosted/deployed to a GitHub pages branch.
+The bitwarden website project is written using Jekyll, which is hosted/deployed to a GitHub pages branch.
 
-# Contribute
+# #Contribute
 
 Code contributions are welcome! Please commit any pull requests against the `master` branch.
